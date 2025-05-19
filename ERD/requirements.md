@@ -61,7 +61,7 @@ I used [Draw.io](https://draw.io) to design the ERD. The diagram illustrates the
 
 Below is the visual ERD I created for this project:
 
-![ERD](alx-airbnb-erd.png)
+![ERD](./alx-airbnb-erd.png)
 
 ---
 
