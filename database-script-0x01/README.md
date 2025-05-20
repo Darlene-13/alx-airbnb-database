@@ -4,28 +4,6 @@ This project contains the complete **PostgreSQL database schema** (DDL) for an *
 
 ---
 
-## 📁 Project Structure
-airbnb-clone-database/
-├── schema/
-│ ├── 01_users.sql
-│ ├── 02_property.sql
-│ ├── 03_bookings.sql
-│ ├── 04_payment.sql
-│ ├── 05_review.sql
-│ ├── 06_saved.sql
-│ ├── 07_availability.sql
-│ ├── 08_messages.sql
-│ ├── 09_indexes.sql
-│ └── 10_triggers.sql
-├── ERD/
-│ └── airbnb_erd.png
-├── schema.sql
-└── README.md
-
-
-
----
-
 ## ⚙️ Technologies Used
 
 - **PostgreSQL 16+**
